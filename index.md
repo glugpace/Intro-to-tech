@@ -70,7 +70,7 @@ Phone: 89216 46150
 
 Mail: shayizshaz@gmail.com
 
-ELEMENT : comrade_ds
+Element : comrade_ds
 
 
 #### Vishnu Bhagirathan
