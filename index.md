@@ -37,7 +37,7 @@ Resources: [Download](//)
 
 Speaker: - Ahmed Ansad
 
-Resources: [Download](//)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Cloud.rar)
 
 
 
@@ -68,7 +68,9 @@ Mail: defourth4@gmail.com
 
 Phone: 89216 46150
 
-Mail:
+Mail: shayizshaz@gmail.com
+
+ELEMENT : comrade_ds
 
 
 #### Vishnu Bhagirathan
