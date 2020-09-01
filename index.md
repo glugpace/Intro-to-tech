@@ -7,11 +7,16 @@ Speaker: - Arkaan Saye
 Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/appdev.rar)
 
 
+### Game Development
+
+Speaker: - Wafa
+
+
 ### AI
 
 Speaker: - Mohammed Shayiz K.P
 
-Resources: [Download](//)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/AI.rar)
 
 
 ### Web Development
@@ -45,16 +50,23 @@ Resources: [Download](//)
 
 ## Support or Contact
 
-#### Arkaan Saye
+#### Arkaan Sayed
 
 Phone: 9591589769
 
 Mail: arkaansayed27@gmail.com
 
 
+#### Wafa
+
+Phone: 96569 65527
+
+Mail: defourth4@gmail.com
+
+
 #### Mohammed Shayiz K.P
 
-Phone: 
+Phone: 89216 46150
 
 Mail:
 
@@ -75,9 +87,9 @@ Mail: Mohammedmubashir234@gmail.com
 
 #### Ahmed Ansad
 
-Phone: 
+Phone: 7892648855
 
-Mail: 
+Mail: ansadanchu.aa@gmail.com
 
 
 
