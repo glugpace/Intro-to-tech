@@ -26,7 +26,7 @@ Mail: defourth4@gmail.com
 
 ### AI
 
-Speaker: - Mohammed Shayiz K.P
+Speaker: - Mohammed Shayiz K.P (Comrade)
 
 Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/AI.rar)
 
@@ -54,7 +54,7 @@ Github: Viz38
 
 Speaker: - Mubashir
 
-Resources: [Download](//)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/IOT.rar)
 
 Phone: 8129090406 
 
