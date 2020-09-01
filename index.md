@@ -97,8 +97,8 @@ Mail: ansadanchu.aa@gmail.com
 
 #### Marzooq Abbas
 
-Phone: 
+Phone: 9535989868
 
-Mail: 
+Mail: marzooqabs@gmail.com
 
 
