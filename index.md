@@ -1,8 +1,13 @@
 ## You can download all the resources here
 
+
+
 ### Recording of the event: 
 
 [will be available for download soon](//)
+
+
+
 
 ### App Development
 
