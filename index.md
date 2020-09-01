@@ -3,7 +3,6 @@
 
 
 ### Recording of the event: 
-
 [will be available for download soon](//)
 
 
