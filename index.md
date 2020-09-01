@@ -68,9 +68,9 @@ Mail: vishnub341@gmail.com
 
 #### Mubashir
 
-Phone: 
+Phone: 8129090406 
 
-Mail: 
+Mail: Mohammedmubashir234@gmail.com
 
 
 #### Ahmed Ansad
