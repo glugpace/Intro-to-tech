@@ -12,7 +12,7 @@
 
 Speaker: - Arkaan Sayed
 
-Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/appdev.rar)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/appdev.zip)
 
 Phone: 9591589769
 
@@ -32,7 +32,7 @@ Mail: defourth4@gmail.com
 
 Speaker: - Mohammed Shayiz K.P (Comrade)
 
-Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/AI.rar)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/AI.zip)
 
 Phone: 89216 46150
 
@@ -45,7 +45,7 @@ Element : comrade_ds
 
 Speaker: - Vishnu Bhagirathan
 
-Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Web.rar)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Web.zip)
 
 Phone: 8848752606
 
@@ -58,7 +58,7 @@ Github: Viz38
 
 Speaker: - Mubashir
 
-Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/IOT.rar)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/IOT.zip)
 
 Phone: 8129090406 
 
@@ -69,7 +69,7 @@ Mail: Mohammedmubashir234@gmail.com
 
 Speaker: - Ahmed Ansad
 
-Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Cloud.rar)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Cloud.zip)
 
 Phone: 7892648855
 
@@ -80,7 +80,7 @@ Mail: ansadanchu.aa@gmail.com
 
 Speaker: -Marzooq Abbas
 
-Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Ethical%20Hacking.rar)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Ethical%20Hacking.zip)
 
 Phone: 9535989868
 
