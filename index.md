@@ -45,7 +45,7 @@ Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Cloud
 
 Speaker: -Marzooq Abbas
 
-Resources: [Download](//)
+Resources: [Download](https://github.com/glugpace/Intro-to-tech/raw/master/Ethical%20Hacking.rar)
 
 
 ## Support or Contact
