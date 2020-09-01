@@ -1,37 +1,43 @@
 ## You can download all the resources here
 
-###App Development
+### App Development
+
 Speaker: - Arkaan Saye
 
 Resources: [Download](//)
 
 
-###AI
+### AI
+
 Speaker: - Mohammed Shayiz K.P
 
 Resources: [Download](//)
 
 
-###Web Development
+### Web Development
+
 Speaker: - Vishnu Bhagirathan
 
 Resources: [Download](//)
 
 
-###IOT
+### IOT
+
 Speaker: - Mubashir
 
 Resources: [Download](//)
 
 
-###Cloud
+### Cloud
+
 Speaker: - Ahmed Ansad
 
 Resources: [Download](//)
 
 
 
-###Ethical Hacking
+### Ethical Hacking
+
 Speaker: -Marzooq Abbas
 
 Resources: [Download](//)
