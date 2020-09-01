@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## You can download all the resources here
 
-You can use the [editor on GitHub](https://github.com/glugpace/Intro-to-tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###App Development
+Speaker: - Arkaan Saye
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Resources: [Download](//)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###AI
+Speaker: - Mohammed Shayiz K.P
 
-```markdown
-Syntax highlighted code block
+Resources: [Download](//)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+###Web Development
+Speaker: - Vishnu Bhagirathan
 
-1. Numbered
-2. List
+Resources: [Download](//)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+###IOT
+Speaker: - Mubashir
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Resources: [Download](//)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glugpace/Intro-to-tech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###Cloud
+Speaker: - Ahmed Ansad
+
+Resources: [Download](//)
+
+
+
+###Ethical Hacking
+Speaker: -Marzooq Abbas
+
+Resources: [Download](//)
+
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
