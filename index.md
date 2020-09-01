@@ -48,30 +48,35 @@ Resources: [Download](//)
 #### Arkaan Saye
 
 Phone: 9591589769
+
 Mail: arkaansayed27@gmail.com
 
 
 #### Mohammed Shayiz K.P
 
 Phone: 
+
 Mail:
 
 
 #### Vishnu Bhagirathan
 
 Phone: 8848752606
+
 Mail: vishnub341@gmail.com
 
 
 #### Mubashir
 
 Phone: 
+
 Mail: 
 
 
 #### Ahmed Ansad
 
 Phone: 
+
 Mail: 
 
 
@@ -79,6 +84,7 @@ Mail:
 #### Marzooq Abbas
 
 Phone: 
+
 Mail: 
 
 
