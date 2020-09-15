@@ -3,7 +3,7 @@
 
 
 ### Recording of the event: 
-[will be available for download soon](//)
+[Download](https://drive.google.com/file/d/1Olg7ATByxlUiHVpU8QAnnMz9pVcsN_Us/view)
 
 
 
